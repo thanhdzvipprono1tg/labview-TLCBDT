@@ -125,3 +125,4 @@ File `colab.vi` cung cấp:
 ## Đóng góp
 
 Mọi ý tưởng cải tiến đều được hoan nghênh! Vui lòng gửi pull request hoặc báo lỗi qua GitHub Issues.
+# ---End---
